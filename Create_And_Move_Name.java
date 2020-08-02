@@ -3,7 +3,7 @@
 *
 *           Himanshu Sharma
 *           himanshusharma2972@gmail.com
-*           Github - himanshuthcoder
+*           Github - himanshuthecoder
 *	********************************************
 *                  Create Your Name
 *   ********************************************
